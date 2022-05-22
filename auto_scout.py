@@ -84,14 +84,3 @@ if st.button('Predict'):
 
 
 
-
-
-
-
-
-
-sklearn==0.0
-xgboost==0.90
-streamlit==1.9.0
-numpy==1.22.4
-pandas==1.4.2
