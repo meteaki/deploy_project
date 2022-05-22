@@ -79,7 +79,7 @@ else:
     
 
 if st.button('Predict'):
-    st.success(f'The estimated price of your car is {int(pred[0])}')
+    st.success(f'The estimated price of your car is {int(pred[0])} €')
 
 
 
